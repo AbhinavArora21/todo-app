@@ -10,4 +10,4 @@ A simple Todo application to keep track of tasks.
 
 ## Screenshot
 
-![Todo App Screenshot](TODO-APP\screenshots\image.png)
+![Todo App Screenshot](TODO-APP/screenshots/image.png)
